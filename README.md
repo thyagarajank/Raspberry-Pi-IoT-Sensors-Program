@@ -1,2 +1,2 @@
-# Internet-of-Things-Sensor-Python-Program
-Ten Types Of Sensor Python Program
+# Raspberry-Pi-Internet-of-Things-Sensor-Program
+Sensor Python Program
